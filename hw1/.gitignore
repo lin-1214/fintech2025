@@ -1,0 +1,92 @@
+# Model weights and checkpoints
+*.pth
+*.h5
+*.ckpt
+*.pt
+*.bin
+*.onnx
+*.tflite
+*.pb
+*.csv
+*.xlsx
+*.xls
+*.json
+*.txt
+
+# Images
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.ico
+*.webp
+*.svg
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.python-version
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Large data files
+*.csv
+*.tsv
+*.json
+*.jsonl
+*.parquet
+*.hdf5
+*.npz
+*.npy
+
