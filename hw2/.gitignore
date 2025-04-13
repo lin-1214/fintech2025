@@ -1,0 +1,17 @@
+./ta-lib
+
+./*.csv
+
+./*.pkl
+
+./*.json
+
+./*.png
+
+./*.jpg
+
+./*.jpeg
+
+./*.gif
+
+./*.bmp
